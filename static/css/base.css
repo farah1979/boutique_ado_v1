@@ -50,11 +50,24 @@ body {
 
 .text-black {
     color: #000 !important;
+   
+}
+
+.display-4 {
+    font-size: 2.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    padding-top: 200px;
 }
 
 .border-black {
     border: 1px solid black !important;
 }
+
+.bg-black {
+    background-color: #000 !important;
+}
+
 
 /* -------------------------------- Media Queries */
 
