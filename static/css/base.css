@@ -68,6 +68,17 @@ body {
     background-color: #000 !important;
 }
 
+.overlay{
+    height: 100%;
+    width: 100%;
+    background: #fff;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+
+}
+
 
 /* -------------------------------- Media Queries */
 
